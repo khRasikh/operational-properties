@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Starting a new project is fun!
+          Starting a new TypeScript project by Rasikh 
         </p>
         <a
           className="App-link"
